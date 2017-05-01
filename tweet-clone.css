@@ -1,0 +1,78 @@
+body {
+	background-color: rgb(244, 248, 249);
+	font-family: helvetica;
+	font-size: 14px;
+	position: relative;
+}
+.container {
+	position: relative;
+	width: 700px;
+	height: 220px;
+	background-color: rgb(255, 255, 255);
+	border:2px solid rgb(225, 232, 237) ;
+	padding: 30px;
+	border-radius: 5px;
+}
+.relative-1 {
+	position: relative;
+}
+
+.container1 {
+	position: relative;
+	top: -75px;
+	left: 85px;
+	bottom: -20px;
+	font-size: 32px;
+	text-decoration-color: text: rgb(0, 0, 0);
+}
+#jack {
+	position: relative;
+	top: -35px;
+	color: rgb(104, 109, 129);
+	left: -5px;
+}
+.follow {
+	position: relative;
+	border: 1px solid rgb(85, 172, 238);
+	color: rgb(85, 172, 238);
+	height: 60px;
+	width: 170px;
+	border-radius: 5px;
+	float: right;
+	top: -220px;
+	bottom: -50px;
+}
+
+.follow2 {
+	font-size: 32px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.container2 {
+		position: relative;
+		top: -115px;
+		font-size: 32px;
+		text-decoration-color: text: rgb(0, 0, 0);
+	}
+
+#date {
+	color: rgb(101, 116, 127);
+	position: relative;
+	top: -25px;
+	font-size: 28px;
+}
+.bottom {
+	position: relative;
+	color: rgb(105, 120, 130);
+	top: -160px;
+	font-size: 32px;
+}
+#span-1 {
+	position: relative;
+	left: 15px;
+}
+#span-2 {
+	position: relative;
+	left: 30px;
+}
